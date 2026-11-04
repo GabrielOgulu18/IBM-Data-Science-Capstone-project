@@ -1,10 +1,3 @@
-"""IBM SpaceX Dash lab — completed Tasks 1–4.
-
-Place spacex_launch_dash.csv beside this script and run:
-    python spacex_dash_app.py
-Then open http://127.0.0.1:8050/ in a browser.
-"""
-
 from pathlib import Path
 
 import pandas as pd
